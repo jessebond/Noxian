@@ -1,0 +1,12 @@
+
+data/*
+weka/*
+*.py#
+
+*.py~
+
+*.bak
+
+*.csv#
+
+*.csv
