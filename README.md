@@ -1,4 +1,4 @@
-Noxian - Datamining Match Prediction for League of Legends
+Noxian - Datamining for Match Prediction for League of Legends
 ==========================================================
 
 Currently uses a Postgresql database
